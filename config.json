@@ -1,0 +1,5 @@
+{
+  "project_folder": "./ost-iot-demo",
+  "start_file": "app.js",
+  "ssh_port": 22
+}
